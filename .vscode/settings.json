@@ -5,5 +5,16 @@
     "**/.git": true,
     "**/.vscode": true,
     "**/.npmrc": true
-  }
+},
+"sqltools.connections": [
+    {
+        "dialect": "SAPHana",
+        "name": "HanaTrial",
+        "port": 443,
+        "server": "8167e040-7891-4ac3-875d-e09db2acd5f7.hana.trial-us10.hanacloud.ondemand.com",
+        "database": "DBADMIN",
+        "username": "DBADMIN",
+        "password": "L3onardo22!"
+    }
+]
 }
